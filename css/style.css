@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    min-height: 100%;
+}
+.image-filter{
+    filter: grayscale(60%);
+    transition: filter 0.5s;
+    cursor: pointer;
+}
+.image-filter:hover{
+    filter: grayscale(0%);
+}
