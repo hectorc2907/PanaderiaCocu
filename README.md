@@ -2,7 +2,7 @@
 
 Cuarta pagina creada como practica para RollingCode School, con esta pagina, finalizan las practicas del 1er Modulo
 
-![]()
+![](https://github.com/hectorc2907/PanaderiaCocu/blob/dev/img/capturas/Logo.PNG)
 
 ## Tabla de Contenidos
 
@@ -32,15 +32,15 @@ El objetivo de este proyecto es poner en practica todas las etiquetas necesarias
 ## Demostración
 
 Enlace:
-[PanaderiaCocu](https://rollingbankhac.netlify.app/)  
+[PanaderiaCocu]()  
 Dispositivos Pequeños  
-![Dispositivos Pequeños]()  
+![Dispositivos Pequeños](https://github.com/hectorc2907/PanaderiaCocu/blob/dev/img/capturas/Small.PNG)  
 Dispositvos Medianos  
-![Dispositivos Medianos]()  
+![Dispositivos Medianos](https://github.com/hectorc2907/PanaderiaCocu/blob/dev/img/capturas/Medium.PNG)  
 Dispositivos Grandes  
-![Dispositivos Grandes]()  
+![Dispositivos Grandes](https://github.com/hectorc2907/PanaderiaCocu/blob/dev/img/capturas/Large.PNG)  
 Dispositivos Muy Grandes  
-![Dispositivos Muy Grandes]()
+![Dispositivos Muy Grandes](https://github.com/hectorc2907/PanaderiaCocu/blob/dev/img/capturas/XLarge.PNG)
 
 ## Instalación
 
