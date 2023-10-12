@@ -32,7 +32,7 @@ El objetivo de este proyecto es poner en practica todas las etiquetas necesarias
 ## Demostración
 
 Enlace:
-[PanaderiaCocu]()  
+[PanaderiaCocu](https://panaderiacocuhac.netlify.app/)  
 Dispositivos Pequeños  
 ![Dispositivos Pequeños](https://github.com/hectorc2907/PanaderiaCocu/blob/dev/img/capturas/Small.PNG)  
 Dispositvos Medianos  
